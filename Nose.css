@@ -1,0 +1,42 @@
+.Monog {
+    border: 1px solid rgb(103, 158, 179);
+    display: table;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: 1550px;
+    height: 3100px;
+    background-color: #e0f6ff;
+    position: absolute;
+    right: 0px;
+    line-height: 100%;
+    font-family: Arial;
+    font-size: 22px;
+}
+
+.AbandEscolPorBullyEnElEstadDeNuevoLeón {
+    font-family: Arial;
+}
+
+.Índic {
+    border: 1px solid rgb(63, 106, 122);
+    display: table;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: 500px;
+    height: 800px;
+    background-color: rgb(131, 220, 255);
+    right: 200px;
+    font-family: Arial;
+    font-size: 22px;
+}
+
+.Intro {
+    font-family: Arial;
+    font-size: 22px;
+}
+
+.Capít1-ElBullyEscol {
+    font-family: Arial;
+    font-size: 22px;
+}
+
